@@ -11,7 +11,7 @@
 
 This application is built in Laravel Framework.
 
-### Endpoints
+## Endpoints
 -base_url/insertYouTubeVideos (Fetch youtube video data and save into database)
 -base_url/fetchYouTubeVideos (Fetch videos from local database)
 -base_url/fetchStatistics/{id} (Display indiviudal video detail)
